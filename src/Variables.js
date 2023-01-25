@@ -1,0 +1,7 @@
+// api endpoints
+
+
+export const variables = {
+    API_URL: "http://localhost:1029/api/",
+    PHOTO_URL: "http://localhost:1029/Photos/"
+}
